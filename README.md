@@ -4,9 +4,11 @@ Data Analytics Project – End-to-End Data Analysis & Visualization
 This project demonstrates a complete data analytics workflow, from raw data ingestion to interactive dashboard creation and business insights generation. It combines Python-based data analysis, SQL querying, and Power BI visualization to deliver actionable insights and a professional reporting output suitable for business decision-making.
 
 Dataset
-Source: (Add dataset source or mention “Kaggle / Internal / Open dataset”) 
-Format: CSV / Excel / SQL Database 
-Description: The dataset contains structured records used for analysis, including key business-related attributes such as categories, timestamps, numerical metrics, and categorical variables.
+Source: (Add dataset source or mention “Kaggle / Internal / Open dataset”) 
+Format: CSV / Excel / SQL Database 
+Description: The dataset contains structured records used for analysis, including key business-related attributes such as categories, timestamps, numerical metrics, and categorical variables.
+
+
 🛠️ Tools & Technologies
 Python (Pandas, NumPy, Matplotlib, Seaborn) 
 SQL (PostgreSQL / MySQL / SQL Server) 
